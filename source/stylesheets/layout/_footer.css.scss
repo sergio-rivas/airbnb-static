@@ -1,0 +1,32 @@
+/* Footer design */
+.footer{
+  background-color: #333333;
+  color: #CCCCCC;
+  width: 100vw;
+  padding: 30px 50px;
+  display:flex;
+  justify-content: space-between;
+  align-content: center;
+
+  ul{
+    margin: 10px 0px;
+  }
+  li{
+    padding: 0px 5px;
+  }
+  p{
+    margin: 15px 0px;
+  }
+  a{
+    font-size: 30px;
+    letter-spacing: 20px;
+    transition: color 0.5s ease;
+    color: #CCCCCC;
+  }
+  a:hover{
+    color: yellow;
+  }
+}
+
+
+/* Footer design */

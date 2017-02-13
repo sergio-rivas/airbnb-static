@@ -1,0 +1,26 @@
+/* Banner design */
+.banner{
+  height: 100vh;
+  background-size: cover;
+  margin:0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color:white;
+}
+.banner h1{
+  font-size: 50;
+  font-weight: bold;
+  text-shadow: 0 1 rgba(0, 0, 0, 0.4);
+  padding: 20 0 10 0;
+}
+.banner p {
+  font-size: 25;
+  font-weight: lighter;
+  color: rgba(255, 255, 255, 0.8);
+  margin-bottom: 50px;
+}
+.banner a{
+  margin-top: 20px;
+}
