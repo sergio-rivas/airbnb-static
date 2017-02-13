@@ -1,0 +1,15 @@
+- cat: Paris
+  backimg: card-paris.jpg
+  header: Seb's Home
+  description: Charming room with patio
+  avatar: seb.jpg
+- cat: Brussels
+  backimg: card-brussels.jpeg
+  header: Anne's Home
+  descripiton: Lovely home
+  avatar: anne.jpg
+- cat: London
+  backimg: card-london.jpeg
+  header: Romain's Home
+  descripiton: Nice flat in Piccadilly
+  avatar: romain.jpg
